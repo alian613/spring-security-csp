@@ -1,2 +1,2 @@
 # csp
- content policy security
+Content Security Policy for Spring Security
